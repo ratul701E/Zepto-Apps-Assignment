@@ -1,0 +1,15 @@
+.font-group-form .form-row {
+    margin-bottom: 20px;
+  }
+  
+  .font-group-form .button-row {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .font-group-form input, 
+  .font-group-form select {
+    margin-right: 10px; 
+  }
+  
