@@ -20,13 +20,13 @@ Users can upload fonts by dragging and dropping TTF files or selecting them manu
 
 Fonts can be removed from the system, as shown here. The system confirms the font removal and updates the list of available fonts.
 
-## 4 & 5. Save Font Group
+## 4. Save Font Group
 
 ![Save Font Group](./demo_photos/create-new-group.png)
 
 Users can create font groups by selecting multiple fonts and saving them under a group name. These groups can then be updated or removed as needed.
 
-## 6. Remove Font Group
+## 5. Remove Font Group
 
 ![Remove Group](./demo_photos/remove-group.png)
 
